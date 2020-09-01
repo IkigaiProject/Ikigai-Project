@@ -11,3 +11,4 @@ Currently at _Box 1.2. Scaffolding: Quicker, easier, more seductive_ of https://
 ### Contributors
 
 - Bos Eriko
+- Raven Maglonzo
