@@ -9,4 +9,5 @@ Seems like the tutorial I was following in authentication is outdated
 Currently at _Box 1.2. Scaffolding: Quicker, easier, more seductive_ of https://www.railstutorial.org/book/beginning
 
 ### Contributors
+
 - Bos Eriko
