@@ -12,3 +12,4 @@ Currently at _Box 1.2. Scaffolding: Quicker, easier, more seductive_ of https://
 
 - Bos Eriko
 - Raven Maglonzo
+- Rommel Pasamonte
