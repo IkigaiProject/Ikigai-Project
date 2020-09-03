@@ -8,6 +8,8 @@
   },
   "scripts": {
     "bundle-install": "bundle install --without production",
+    "dev": "next",
+    "build": "next build",
     "start": "next start"
   }
 }
