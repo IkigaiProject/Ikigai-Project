@@ -1,8 +1,13 @@
 {
   "name": "Ikigai_Project",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
   "scripts": {
-    "bundle-install": "bundle install --without production"
+    "bundle-install": "bundle install --without production",
+    "start": "next start"
   }
 }
